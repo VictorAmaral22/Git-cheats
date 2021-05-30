@@ -1,5 +1,5 @@
 # Git Cheats
-![Git-Logo-2Color](https://user-images.githubusercontent.com/47861954/120095465-832d2e80-c0fc-11eb-8ca3-69d839bb52fa.png)
+![1f265e2d4c43](https://user-images.githubusercontent.com/47861954/120095491-ae178280-c0fc-11eb-8ad5-d5afb0ba50c8.png)
 ## Configuring
 Configs your username
 ```
