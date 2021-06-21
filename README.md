@@ -51,6 +51,10 @@ Prepares the files that you will send and attaches a message from the committer 
 ```
 git commit -m "Lorem impsum"
 ```
+On your first push, use this...
+```
+git push --set-upstream origin master
+```
 
 Pushes the commit for the repository
 ```
